@@ -1,0 +1,4 @@
+simple_messages = 'hello world'
+print(simple_messages)
+simple_messages = '你好，世界'
+print(simple_messages)
